@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "angular-app-crm-d3375": {
+      "hosting": {
+        "angular-app-crm": [
+          "angular-app-crm-d3375"
+        ]
+      }
+    },
+    "crm2022-b8f10": {
+      "hosting": {
+        "angular-app-crm": [
+          "crm2022-b8f10"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crm2022-b8f10"
+  }
+}
